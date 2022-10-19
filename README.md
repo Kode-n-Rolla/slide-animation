@@ -6,4 +6,6 @@ With open VScode at index.html right click and "Open with Live Server"(beforhand
 
 How it works:
 
+Unfortunately gif removed smoothness, but in real live it works very smoothly ;)
+
 ![6xg08l](https://user-images.githubusercontent.com/111082113/196604658-a9470ba7-30b0-462c-a21e-b9f7bdb871d0.gif)
