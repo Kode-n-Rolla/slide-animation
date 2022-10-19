@@ -1,6 +1,7 @@
 # slide-animation
 
 git clone
+
 With open VScode at index.html right click and "Open with Live Server"(beforhand install Live Server: left menu and Extensions)
 
 How it works:
